@@ -1,0 +1,1 @@
+man diff | grep -e -y -A 2
